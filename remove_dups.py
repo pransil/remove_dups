@@ -19,10 +19,7 @@ def remove_dups(in_str):
 
 remove_dups(in_str)
 
-ss = set()
-ss.add(1)
-ss.add(2)
-ss.add(2)
+in_str = input('Enter input string: ')
 
-print(ss)
-print(str(ss))
+remove_dups(in_str)
+
