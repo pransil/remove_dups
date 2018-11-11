@@ -17,6 +17,7 @@ def remove_dups(in_str):
     print("out_str = ", out_str)
     return out_str
 
+# Testing
 remove_dups(in_str)
 
 in_str = input('Enter input string: ')
